@@ -1,4 +1,0 @@
-unoconv
-abiword
-lowriter
-pandoc (required pdflatex, dunno where to get)
